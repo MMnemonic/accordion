@@ -22,7 +22,6 @@
   </main>
 
   <footer>
-    Made by <a href="https://www.taniarascia.com" target="_blank">Tania</a>.
-    <a href="https://github.com/taniarascia/accordion" target="_blank">Open source</a>.
+    Made by <a href="https://albertommoura.com/" target="_blank">Alberto</a>.
   </footer>
 </div>
